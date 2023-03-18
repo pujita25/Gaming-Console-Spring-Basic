@@ -15,6 +15,7 @@ Create a Maven project from "start.spring.io" with Java version - 17 / Spring ve
 4. Once the folder is setup - select folder and select maven build and run the command - clean install
 
 ***Description***
+
 Created a simple Gaming Console by implementing the console as an interface. Used the basic concepts of Spring - Annotations/Configuration/Components/Beans
 and implemented various games like PacMan/Mario/SuperContra by implementing the gaming interface.
 
